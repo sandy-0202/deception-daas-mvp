@@ -1,0 +1,10 @@
+session,src_ip,username,password,duration_seconds,event_count,num_commands,unique_commands,has_download,has_priv_esc,has_recon,login_failures,login_success,file_uploads,label,predicted_label,prediction_confidence
+516a6bd663a8,223.178.85.50,-,-,0.2,4,0,0,0,0,0,0,0,0,BENIGN,BENIGN,0.98
+6592d7c05e59,223.178.85.50,-,-,20.2,24,9,9,0,0,1,0,1,0,RECON,RECON,0.85
+669a9c08f062,185.201.147.210,-,-,2.5,10,0,0,0,0,0,2,0,0,RECON,RECON,0.85
+7c5b580c0a00,185.201.147.210,-,-,2.8,10,0,0,0,0,0,2,0,0,RECON,RECON,0.85
+8589e77e8718,185.201.147.210,-,-,2.1,10,0,0,0,0,0,0,2,0,BENIGN,BENIGN,0.79
+9b933aaa677b,223.178.85.50,-,-,0.2,4,0,0,0,0,0,0,0,0,BENIGN,BENIGN,0.98
+9bbd5e30da53,172.17.0.1,root,da,7.7,20,2,1,0,0,0,0,2,0,BENIGN,BENIGN,0.55
+b1f770744ac0,223.178.85.50,-,-,0.1,4,0,0,0,0,0,0,0,0,BENIGN,BENIGN,0.98
+e85f4703be54,130.12.180.51,-,-,36.4,28,72,23,0,1,1,0,2,12,RECON,RECON,0.77
