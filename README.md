@@ -561,11 +561,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
@@ -578,15 +573,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
----
-
 ## 📚 References
 
 1. Cowrie: SSH/Telnet Honeypot - https://github.com/cowrie/cowrie
@@ -595,21 +581,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 4. Elastic Stack Documentation - https://www.elastic.co/guide/
 5. scikit-learn Documentation - https://scikit-learn.org/
 
----
-
-## 📝 Citation
-
-If you use this project in your research, please cite:
-
-```bibtex
-@misc{adaptive-honeypot-2026,
-  author = {Your Name},
-  title = {Adaptive AI-Powered Honeypot for Enhanced Cyber Threat Intelligence},
-  year = {2026},
-  publisher = {GitHub},
-  url = {https://github.com/yourusername/adaptive-honeypot}
-}
-```
 
 ---
 
