@@ -5,7 +5,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> This is my finaly year project. A machine learning-powered honeypot system that adaptively responds to cyber threats in real-time using Random Forest classification.
+> This is my final year project. A machine learning-powered honeypot system that adaptively responds to cyber threats in real-time using Random Forest classification.
 
 ## 📋 Table of Contents
 
